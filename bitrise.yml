@@ -16,4 +16,4 @@ workflows:
         - content: |-
             #!/bin/bash
 
-            echo "Success!"
+            echo "Successe!"
